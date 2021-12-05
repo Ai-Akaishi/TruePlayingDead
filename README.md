@@ -6,6 +6,7 @@ A data pack that makes axolotls a little better at playing dead.
 # 動作確認済みバージョン / Verified minecraft versions
 
 - 1.17
+- 1.18
 
 # 使い方 / How To Use
 
